@@ -5,7 +5,6 @@ Control your mouse cursor using your hand gestures via webcam. This project uses
 ## Features
 
 - Cursor movement using index finger
-- Smooth and stable mouse control
 - Drag functionality
 - Real-time hand tracking using webcam
 - Works on macOS (Apple Silicon supported)
